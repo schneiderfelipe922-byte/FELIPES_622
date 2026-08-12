@@ -1,2 +1,2 @@
 NETLIFY
-ttps://celebrated-nasturtium-5fde67.netlify.app/
+https://celebrated-nasturtium-5fde67.netlify.app/
